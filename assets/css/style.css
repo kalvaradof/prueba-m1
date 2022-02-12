@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+p{
+    color: white;
+}
+hr {
+    background-color: aqua;
+    height: 2px;
+}
+h2 {
+    color: white;
+}
+h4{
+    color: white;
+}
+h5{
+    color: white;
+}
+label{
+    color: white;
+}
+.card-body{
+    background-color: aqua;
+}
+footer{
+    background-color: aqua;
+}
+@media (max-width:600px){
+    .icon{
+        display: none;
+    }
+}
